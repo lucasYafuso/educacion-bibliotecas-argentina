@@ -1,6 +1,6 @@
 # Análisis de correlación entre escuelas y bibliotecas en Argentina
 
-## Analisis detallado en el informe
+### (Analisis detallado en el informe)
 
 ## Descripción
 Este proyecto analiza la relación entre la cantidad de **establecimientos educativos** y **bibliotecas públicas** en distintas provincias argentinas.  
