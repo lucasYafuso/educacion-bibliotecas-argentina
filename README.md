@@ -14,9 +14,9 @@ El objetivo fue evaluar la **calidad de los datos**, normalizarlos y estudiar si
 - Jupyter Notebook
 
 ## Estructura
--data (contiene las tablas de datos oficiales)
--scypts (contiene los archivos con todo el codigo)
--informe del analisis (se presentan los resultados obtenidos)
+- data (contiene las tablas de datos oficiales)
+- scypts (contiene los archivos con todo el codigo)
+- informe del analisis (se presentan los resultados obtenidos)
 
 ## Resultados principales
 - Las **escuelas** presentan una distribución más equilibrada entre provincias que las **bibliotecas**.  
