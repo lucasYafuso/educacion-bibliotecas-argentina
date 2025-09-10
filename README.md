@@ -13,6 +13,11 @@ El objetivo fue evaluar la **calidad de los datos**, normalizarlos y estudiar si
 - SQL (consultas exploratorias)
 - Jupyter Notebook
 
+## Estructura
+-data (contiene las tablas de datos oficiales)
+-scypts (contiene los archivos con todo el codigo)
+-informe del analisis (se presentan los resultados obtenidos)
+
 ## Resultados principales
 - Las **escuelas** presentan una distribución más equilibrada entre provincias que las **bibliotecas**.  
 - Algunas provincias con alta población (ej. CABA) presentan **pocas bibliotecas en proporción a su densidad**.  
